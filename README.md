@@ -1,0 +1,2 @@
+# simplePasswordDictionary
+简单的密码字典生成器使用python3
